@@ -6,4 +6,4 @@ To properly run the code you will need:
 1) The jupyter notebook
 2) The three fasta files(uploaded here)
 
--readme branch
+-readme edits branch
